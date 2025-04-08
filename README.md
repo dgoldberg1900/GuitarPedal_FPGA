@@ -31,8 +31,8 @@ GuitarPedal_FPGA/ ├── src/ # Verilog source files and constraints ├─�
 
 ## 🧑‍💻 Authors
 
-- Daniel Goldberg (dgoldberg1900@gmail.com)
-- James Kaddissi (@theirhandle)
+- Daniel Goldberg (dgoldberg1900)
+- James Kaddissi (James's GitHub name)
 
 ## 📌 Notes
 
