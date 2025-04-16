@@ -11,8 +11,8 @@ The goal is to demonstrate real-time audio signal processing using a hardware de
 - Live analog audio input via ADC
 - Digital audio effects:
   - [x] Distortion
-  - [ ] Delay / Echo
-  - [ ] Tremolo / Bitcrusher (TBD)
+  - [ ] Delay? / Echo? (TBD)
+  - [ ] Tremolo? / Bitcrusher? (TBD)
 - Audio output via PWM or DAC
 - Toggleable effect control
 - Clean, modular HDL design
@@ -29,12 +29,12 @@ GuitarPedal_FPGA/ ├── src/ # Verilog source files and constraints ├─�
 4. Apply the `guitar_pedal.xdc` constraints
 5. Synthesize, implement, and program the bitstream to test
 
-## 🧑‍💻 Authors
+##  Authors
 
 - Daniel Goldberg (dgoldberg1900)
 - James Kaddissi (James's GitHub name)
 
-## 📌 Notes
+##  Notes
 
-This README will be updated as the project progresses. Stay tuned for demos, waveform visuals, and final performance results!
+This README will be updated as the project progresses. Stay tuned for demos, waveform visuals, and final performance results.
 
