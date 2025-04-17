@@ -19,11 +19,13 @@ The goal is to demonstrate real-time audio signal processing using a hardware de
 
 ##  Project Structure
 
+```
 GuitarPedal_FPGA/ 
 ├── src/ # Verilog source files and constraints 
 ├── docs/ # Diagrams, screenshots, or additional documents 
 ├── demo_video.mp4 # Optional presentation/demo video 
 └── README.md # This file
+```
 
 ##  Getting Started
 
