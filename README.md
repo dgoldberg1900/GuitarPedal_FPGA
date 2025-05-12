@@ -1,10 +1,10 @@
 # 🎸 FPGA Digital Guitar Pedal
 
-This project implements a real-time digital guitar pedal using an FPGA and Verilog. The system captures a live guitar signal, processes it using digital logic to apply audio effects like distortion or delay, and outputs the modified signal to an amplifier or speaker.
+This project implements a real-time digital guitar pedal using an FPGA and VHDL. The system captures a live guitar signal, processes it using digital logic to apply audio effects like distortion or delay, and outputs the modified signal to an amplifier or speaker.
 
 ##  Overview
 
-The goal is to demonstrate real-time audio signal processing using a hardware design implemented in Verilog on an FPGA development board (e.g., Nexys A7). Effects will be selected and controlled using onboard switches and buttons.
+The goal is to demonstrate real-time audio signal processing using a hardware design implemented in VHDL on an FPGA development board (e.g., Nexys A7). Effects will be selected and controlled using onboard switches and buttons.
 
 ##  Features (Planned)
 
@@ -21,7 +21,7 @@ The goal is to demonstrate real-time audio signal processing using a hardware de
 
 ```
 GuitarPedal_FPGA/ 
-├── src/ # Verilog source files and constraints 
+├── src/ # VHDL source files and constraints 
 ├── docs/ # Diagrams, screenshots, or additional documents 
 ├── demo_video.mp4 # Optional presentation/demo video 
 └── README.md # This file
